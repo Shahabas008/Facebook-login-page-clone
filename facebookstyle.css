@@ -1,0 +1,113 @@
+.textarea{
+    height: 330px;
+    width: 396px;
+    margin-top: 150px ;
+    border: 1px solid white;
+    margin-left: 760px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 8px 16px 0 rgb(226, 217, 217), 0 6px 20px 0 rgba(99, 92, 92, 0.19);
+}
+
+
+
+input{
+    margin-top: 20px;
+    margin-left: 20px ;
+    padding: 10px;
+    width: 330px;
+    border-radius: 5px;
+    font-family:Arial;
+    font-size: 18px;
+    border:1px solid #dddfe2;
+    
+}
+
+#button1{
+    width: 352px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 20px ;
+    font-family:Arial;
+    font-size: 20px;
+    background-color: #1877f2;
+    color: #ffffff;
+    border-radius: 6px;
+    border:1px solid  #1877f2;
+}
+
+
+#button1:hover{
+   
+    background-color: #3665a1;
+    color: white;
+    transition-duration: 0.5s;
+  }
+
+
+body{
+    background: #f0f2f5;
+    margin: 0;
+    
+}
+
+.forgotpass{
+    margin-top: 10px;
+    margin-left: 125px;
+    font-family:Arial;
+ 
+}
+
+.forgotpass:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+#button2{
+    width: 215px;
+    height: 50px;
+    font-family: Arial;
+    font-size: 17px;
+    background-color: #42b72a;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-left: 95px;
+    margin-top: 17px;
+    border:1px solid #42b72a;
+}
+
+
+#button2:hover{
+    transition-duration: 0.5s;
+    background-color: rgb(49, 138, 49);
+    color: white;
+  }
+
+
+img {
+    width: 508px;
+    float: left;
+    height: 107px;
+    margin-left: 81px;
+    padding-left: 5px;
+    margin-top: 42px;
+  
+  }
+
+
+  #para{
+    width: 534px;
+    padding: 0;
+    float: left;
+    margin-top: 146px;
+    margin-left: -387px;
+    font-family: Arial;
+    font-size: 28px;
+  }
+
+  hr{
+    background-color: #ccc;
+    border: 1;
+    
+  }
+
